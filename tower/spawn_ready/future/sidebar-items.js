@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["ResponseFuture","Response future from `SpawnReady` services."]]};

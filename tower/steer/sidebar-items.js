@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["Steer","[`Steer`] manages a list of [`Service`]s which all handle the same type of request."]],"trait":[["Picker","This is how callers of [`Steer`] tell it which `Service` a `Req` corresponds to."]]};

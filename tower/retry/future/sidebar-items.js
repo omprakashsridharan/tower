@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":[["ResponseFuture","The [`Future`] returned by a [`Retry`] service."]]};
